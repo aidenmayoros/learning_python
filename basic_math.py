@@ -39,3 +39,22 @@ math.floor(y)  # round down
 
 # If statements
 # ----------------------
+
+# age = int(input("What is your age? "))
+
+# if age >= 18:
+#     print("You are signed up!")
+# elif age < 0:
+#     print("You have not been born yet!")
+# else:
+#     print("You must be 18 to sign up!")
+
+# Second example
+# -----------------------
+
+# food_question = input("Would you like some food? Y/N ")
+
+# if food_question == "Y":
+#     print("Enjoy!")
+# else:
+#     print("No food for you!")
