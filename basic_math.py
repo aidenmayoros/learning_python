@@ -62,17 +62,32 @@ math.floor(y)  # round down
 # Python Calculator
 # -----------------------
 
-operator = input("Choose a operator (+ - * /) ")
-num1 = float(input("Enter 1st number "))
-num2 = float(input("Enter 2nd number "))
+# operator = input("Choose a operator (+ - * /) ")
+# num1 = float(input("Enter 1st number "))
+# num2 = float(input("Enter 2nd number "))
 
-if operator == "+":
-    print(num1 + num2)
-elif operator == "-":
-    print(num1 - num2)
-elif operator == "*":
-    print(num1 * num2)
-elif operator == "/":
-    print(num1 / num2)
-else:
-    print("Please choose only one of the following operators (+ - * /)")
+# if operator == "+":
+#     print(num1 + num2)
+# elif operator == "-":
+#     print(num1 - num2)
+# elif operator == "*":
+#     print(num1 * num2)
+# elif operator == "/":
+#     print(num1 / num2)
+# else:
+#     print("Please choose only one of the following operators (+ - * /)")
+
+# String Methods
+# -----------------------
+
+string_name = input("Enter your full name: ")
+
+len(string_name)  # returns length of the string
+string_name.find(" ")  # finds the first occurance and returns its position value
+string_name.rfind(" ")  # finds the last occurance and returns its position value
+string_name.capitalize()  # makes the first letter a capital
+string_name.upper()  # Makes all letters uppercase
+string_name.isdigit()  # checks if all string items are numbers
+string_name.isalpha()  # checks for all alphabetical letters in a string
+string_name.count()  # counts how many characters are in a string
+string_name.replace()  # replaces all first parameter with another in a string
