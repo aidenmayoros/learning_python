@@ -18,3 +18,6 @@ while time <= 0:
     time = float(input("Enter the time in years: "))
     if time <= 0:
         print("time can't be less than or equal to 0")
+
+total = principle * pow((1 + rate / 100), time)
+print(total)
