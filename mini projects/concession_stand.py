@@ -17,4 +17,3 @@ total = 0
 
 for key, value in menu.items():
     print(f"{key:10} ${value:.2f}")
-#
