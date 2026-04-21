@@ -1,0 +1,152 @@
+[
+  {
+    "item_id": "milk-whole-gal",
+    "name": "Whole Milk",
+    "brand": "Great Value",
+    "category": "Dairy",
+    "size": "1 gallon",
+    "price": 4.12,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  },
+  {
+    "item_id": "eggs-large-12",
+    "name": "Large Eggs",
+    "brand": "Great Value",
+    "category": "Dairy",
+    "size": "12 count",
+    "price": 3.18,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  },
+  {
+    "item_id": "bread-white-20oz",
+    "name": "White Sandwich Bread",
+    "brand": "Great Value",
+    "category": "Bakery",
+    "size": "20 oz",
+    "price": 1.76,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  },
+  {
+    "item_id": "chicken-breast-lb",
+    "name": "Boneless Skinless Chicken Breast",
+    "brand": "Freshness Guaranteed",
+    "category": "Meat",
+    "size": "1 lb",
+    "price": 3.26,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  },
+  {
+    "item_id": "ground-beef-80-20-lb",
+    "name": "Ground Beef 80/20",
+    "brand": "All Natural",
+    "category": "Meat",
+    "size": "1 lb",
+    "price": 4.86,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  },
+  {
+    "item_id": "bananas-lb",
+    "name": "Bananas",
+    "brand": "Fresh Produce",
+    "category": "Produce",
+    "size": "1 lb",
+    "price": 0.58,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  },
+  {
+    "item_id": "apples-gala-3lb",
+    "name": "Gala Apples",
+    "brand": "Fresh Produce",
+    "category": "Produce",
+    "size": "3 lb bag",
+    "price": 4.47,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  },
+  {
+    "item_id": "rice-white-5lb",
+    "name": "Long Grain White Rice",
+    "brand": "Great Value",
+    "category": "Pantry",
+    "size": "5 lb",
+    "price": 3.34,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  },
+  {
+    "item_id": "pasta-spaghetti-16oz",
+    "name": "Spaghetti Pasta",
+    "brand": "Great Value",
+    "category": "Pantry",
+    "size": "16 oz",
+    "price": 0.98,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  },
+  {
+    "item_id": "peanut-butter-16oz",
+    "name": "Creamy Peanut Butter",
+    "brand": "Great Value",
+    "category": "Pantry",
+    "size": "16 oz",
+    "price": 2.12,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  },
+  {
+    "item_id": "cereal-toasted-oats-12oz",
+    "name": "Toasted Oats Cereal",
+    "brand": "Great Value",
+    "category": "Breakfast",
+    "size": "12 oz",
+    "price": 2.38,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  },
+  {
+    "item_id": "coffee-ground-12oz",
+    "name": "Ground Coffee",
+    "brand": "Great Value",
+    "category": "Beverages",
+    "size": "12 oz",
+    "price": 5.98,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  },
+  {
+    "item_id": "butter-1lb",
+    "name": "Salted Butter",
+    "brand": "Great Value",
+    "category": "Dairy",
+    "size": "1 lb",
+    "price": 3.98,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  },
+  {
+    "item_id": "cheddar-shredded-8oz",
+    "name": "Shredded Cheddar Cheese",
+    "brand": "Great Value",
+    "category": "Dairy",
+    "size": "8 oz",
+    "price": 2.22,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  },
+  {
+    "item_id": "paper-towels-6roll",
+    "name": "Paper Towels",
+    "brand": "Great Value",
+    "category": "Household",
+    "size": "6 rolls",
+    "price": 8.98,
+    "in_stock": true,
+    "last_updated": "2026-04-21"
+  }
+]
