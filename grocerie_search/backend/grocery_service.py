@@ -24,15 +24,16 @@ def find_cheapest_store(prices):
     return cheapest_store
 
 
+def find_all_store_prices(data):
+    return
+
+
 def search_item(item_name):
     cheapest_store = find_cheapest_store(data["prices"])
+    prices = find_all_store_prices(data["prices"])
 
     return {
         "item": item_name,
         "cheapest_store": cheapest_store,
-        "prices": {
-            "Aldi": 3.75,
-            "Walmart": 4.12,
-            "Commissary": 3.89,
-        },
+        "prices": prices,
     }
