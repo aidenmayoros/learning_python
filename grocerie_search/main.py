@@ -1,10 +1,9 @@
-from backend.grocery_service import search_item
+from backend.grocery_service import data
 
 
 def main() -> None:
-    result = search_item("milk")
 
-    print(result)
+    print("Program Ran")
 
 
 if __name__ == "__main__":
