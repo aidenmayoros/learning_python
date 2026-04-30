@@ -1,4 +1,4 @@
-from backend.grocery_service import data
+from projects.grocerie_search.backend.grocery_service import data
 
 
 def main() -> None:
